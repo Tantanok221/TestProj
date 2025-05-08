@@ -10,7 +10,7 @@
 # Ignore all environment files.
 /.env*
 .idea
-.idea3
+.idea4
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
